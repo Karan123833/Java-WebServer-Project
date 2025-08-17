@@ -64,7 +64,7 @@ The data below demonstrates the server's ability to handle massive-scale traffic
 
 *(Results from a test run on an M-series MacBook Air)*
 
-![JMeter 1M Test Results](1M requests.png)
+![JMeter 1M Test Results](1M-requests.png)
 
 ### Analysis
 
